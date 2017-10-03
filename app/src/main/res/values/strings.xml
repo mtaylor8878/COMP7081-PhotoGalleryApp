@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Photo Gallery</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_search">Search</string>
+    <string name="form_tag">Tags</string>
+    <string name="form_location">Location</string>
+</resources>
